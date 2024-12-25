@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Alert Me</string>
+    <string name="admin_login">Admin Login</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="send_notifications">Send Notifications</string>
+    <string name="send_notification">Send Notification</string>
+    <string name="fill_the_following_info">Fill the following information</string>
+    <string name="title">Title</string>
+    <string name="message">Message</string>
+    <string name="cancel">Cancel</string>
+    <string name="yes">Yes</string>
+    <string name="are_you_sure_to_logout">Are you sure you want to logout?</string>
+    <string name="password">Password</string>
+</resources>
