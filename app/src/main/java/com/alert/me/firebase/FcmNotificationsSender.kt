@@ -22,7 +22,7 @@ class FcmNotificationsSender(
     private var requestQueue: RequestQueue? = null
     private val postUrl = "https://fcm.googleapis.com/fcm/send"
     private val fcmServerKey =
-        "AAAAECvY1Gs:APA91bFPDYdVuqLhyVRhu4RYDqevmI8_t9i7jEa_MXszq-sF6E1DyqazmJBBRjqWQZ2mg69EOmtqcYt2NJXdC6U9m8IBJx1NJBvI33yl1frVEP6K2OatLma9by1BnoQdzHM2PuaL1KFb"
+        ""
 
     fun sendNotification(mCustomProgress: CustomProgress) {
         requestQueue = Volley.newRequestQueue(mActivity)
